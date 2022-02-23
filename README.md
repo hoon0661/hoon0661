@@ -1,6 +1,8 @@
 ### Hi there 👋
 My name is Hoon and I am a Recent computer engineering grad. I focused on electrical engineering when I was in school, but I somehow fell in love with software development. 
-I am currently learning Spring framework as well as React for making full-stack web apps. Some of projects that I enjoyed working on are pinned on this page. Please check it out! Happy coding!😄
+
+I am currently learning Spring framework as well as React for making full-stack web apps. Some of projects that I enjoyed working on are pinned on this page. Please check it out! 
+Happy coding!😄
 
 Tech that I am currently learning...
 
