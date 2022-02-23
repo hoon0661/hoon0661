@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Hoon and I am a Recent computer engineering grad. I focused on electrical engineering when I was in school, but I somehow fell in love with software development. 
+I am currently learning Spring framework as well as React for making full-stack web apps. Some key projects that I have been working on are pinned on this page. Please check this out! Happy coding!😄
 
 <!--
 **hoon0661/hoon0661** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
